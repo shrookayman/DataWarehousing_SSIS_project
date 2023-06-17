@@ -1,0 +1,1 @@
+<?xml version="1.0"?><DTSDeploymentManifest GeneratedBy="SHROUK\saiko_stores" GeneratedFromProjectName="store1" GeneratedDate="2023-05-08T18:54:23.3172869+03:00" AllowConfigurationChanges="true"><Package>numOfOrdersFactTable.dtsx</Package><Package>salesRevenueFactTable.dtsx</Package><Package>NumberofProductsFactTable.dtsx</Package></DTSDeploymentManifest>
